@@ -18,7 +18,7 @@
     <?php 
       echo "<h1>Area of a Trapezoid</h1>";
     ?>
-    <img src="./images/trapezoid.svg" alt="trapezoid"> <br>
+    <img src="./images/trapezoid.png" alt="trapezoid"> <br>
     <?php
       echo "<h3>This program will calculate the area of a trapezoid.</h3>";
     ?>
